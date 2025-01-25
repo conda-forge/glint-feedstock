@@ -1,5 +1,5 @@
 context:
-  version: "1.5.1"
+  version: "1.5.2"
 
 package:
   name: glint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@glint/core/-/core-${{ version }}.tgz
-  sha256: 589c7a05637c3e4e928d375113793115f41cfcf1effdc10c0e6dfdb21fdc2b41
+  sha256: ad3ed88998cb1aa7187e72a566b13939bcf1401af68bb3b7f9a59a742dc9fc01
 
 build:
   number: 0
